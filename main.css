@@ -1,0 +1,40 @@
+/*
+   Eduardo Lozano
+  IntroCS pd07 sec11
+  HW05 -- Stylin' - How does CSS affect HTML?
+  2021-02-16
+*/
+
+h1 {
+    color: red;
+    font-weight:bolder;
+}
+
+body {
+   background-color: black
+}
+
+p {
+   color: white;
+   
+}
+
+ul {
+   color: green;
+   font-style: italic;
+   
+}
+
+h2 {
+   color: white;
+   font-weight: bold;
+}
+
+h3 {
+   color: purple;
+}
+
+a {
+   color: green;
+}
+
